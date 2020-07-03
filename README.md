@@ -1,2 +1,2 @@
-# portfoliosite
-Huge site used for my portfolio
+# Portfolio Site
+Hugo site used for my portfolio
