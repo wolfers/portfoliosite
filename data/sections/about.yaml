@@ -1,0 +1,36 @@
+# section information
+section:
+  name: About
+  enable: true
+  weight: 1
+  showOnNavbar: true
+
+# your designation
+designation: Software Engineer
+# your company information
+
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'I am an aspiring software engineer with experience in node and python.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Email
+  icon: "fas fa-envelope"
+  url: "trevor@bigemailenergy.com"
+
+- name: Github
+  icon: "fab fa-github"
+  url: "https://www.github.com/wolfers"
+
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/trevor-wolfe/"
+
+- name: Twitter
+  icon: "fab fa-twitter"
+  url: "https://twitter.com/ProtonHeart"

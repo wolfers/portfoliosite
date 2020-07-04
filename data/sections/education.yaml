@@ -1,0 +1,48 @@
+# section information
+section:
+  name: Experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+
+
+# Your experiences
+experiences:
+- designation: Data Science Student
+  company:
+    name: Galvanize
+    url: "https://www.galvanize.com"
+    location: Seattle, WA
+    # company overview
+    overview: Galvanize is an immersive data science training program, teaching many developer and math skills.
+  start: 2019
+  # don't provide end date if you are currently working there. It will be replaced by "Present"
+  end: 2019
+  # give some points about what was your responsibilities at the company.
+  responsibilities:
+  - Learned a lot of statistics and math skills related to data science
+  - Gained experience in python using many packages to create data science solutions
+
+- designation: Student
+  company:
+    name: Washington State University
+    url: "https://wsu.edu/"
+    location: Vancouver, WA
+    overview: Studied electrical engineering, no degree
+  start: 2014
+  end: 2016
+  responsibilities:
+  - Relevant Classes
+  - linear algebra, calculus, programming for engineers
+
+- designation: Student
+  company:
+    name: Clark College
+    url: "http://www.clark.edu/"
+    location: Vancouver, WA
+    overview: Took classes here for engineering and programming.
+  start: 2012
+  end: 2014
+  responsibilities:
+  - Relevant Classes
+  - Introduction to python
