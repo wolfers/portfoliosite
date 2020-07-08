@@ -8,34 +8,28 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  icon: "images/skills/kubernetes.png"
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
+- name: Node.js
+  icon: 
+  summary: "Used as my main language, I can write clear and morden solutions. "
 
-- name: Go Development
-  icon: "images/skills/go.png"
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
+- name: Nest.js
+  summary: ""
 
 - name: Cloud Computing
-  icon: "images/skills/cloud.png"
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
+  summary: "Experience working with GCP and AWS."
 
 - name: Docker
-  icon: "images/skills/docker.svg"
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-
-- name: Prometheus
-  icon: "images/skills/prometheus.png"
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+  icon: 
+  summary: "Written and used several dockerized programs."
 
 - name: Linux
-  icon: "images/skills/linux.png"
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  icon: 
+  summary: "Experience in writing scripts and using it as a main operating system. Using WSL for most things these days."
 
 - name: Git
-  icon: "images/skills/git.png"
-  summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
+  icon: 
+  summary: "I use git for all projects, always with giyhub. Not expereinced with more advanced functions but willing to learn if needed."
 
-- name: C++
-  icon: "images/skills/c++.png"
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: Python
+  icon: 
+  summary: "Experience writing python for data science and some minor backend projects."
